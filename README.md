@@ -1,16 +1,3 @@
 # flutter_sprints_task4
+<image src="https://user-images.githubusercontent.com/90774185/133452615-af7ddbe0-c6bc-4d5b-8b6c-e224bfe193bf.png" width="500" height="800">
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
